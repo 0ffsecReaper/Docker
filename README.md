@@ -1,7 +1,7 @@
 # Docker
 **cd Docker_folder**
 
-docker image build -t imagedemo .  
+Run --->docker image build -t imagedemo .  
 
-docker container run imagedemo:latest
+Run --->docker container run imagedemo:latest
 
